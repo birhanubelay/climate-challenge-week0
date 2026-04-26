@@ -1,0 +1,11 @@
+venv/
+data/
+*.csv
+*.ipynb_checkpoints/
+__pycache__/
+data/
+*.py[cod]
+*$py.class
+*.so
+.vscode/
+.idea/
